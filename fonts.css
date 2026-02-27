@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url('IIVorkurs-Medium.woff') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Your Secondary Font';
+  src: url('tiempos-fine-medium.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
